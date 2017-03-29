@@ -1,27 +1,4 @@
-<<<<<<< HEAD
 safaaaaaaaaaaaaa
-=======
 ngfffffffffffffffffffffffff
->>>>>>> test
 hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
-hello
+
